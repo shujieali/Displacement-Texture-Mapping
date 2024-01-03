@@ -1,5 +1,5 @@
 Displacement Mapping in OpenGl
-						         By: Rana Shujaat Ali
+
 
 Introduction: 	
 Displacement Mapping or Vertex Displacement Mapping is a technique which allows adding details to a surface by deforming the underlying mesh.
